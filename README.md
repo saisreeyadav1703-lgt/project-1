@@ -32,17 +32,5 @@ Artificial Recharge techniques help increase groundwater levels using percolatio
 - Rooftop area measurement  
 - Water demand & supply estimation  
 - Recharge pit size calculation  
-## 📷 Images / Diagrams (Add if you have)
-(Add diagrams of system layout, filtration unit, recharge pit, etc.)
 ## 🧑‍🎓 Author
-*Yadava Saisree*  
-B.Tech – 3rd Year  
-
-
-
----
-
-If you want, I can also create:
-✅ Project Report PDF
-✅ PowerPoint (PPT)
-✅ Abstract
+*Yadava Saisree* — B.Tech CSE (AI), St. John's College of Engineering and Technology
